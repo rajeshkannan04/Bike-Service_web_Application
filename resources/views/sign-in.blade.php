@@ -40,7 +40,7 @@
 <body>
 
     <div class="text-center">
-        <img class="logo" src="{{ Storage::url('public/profile/bike-service-logo.png') }}" alt="hello">
+        <img class="logo" src="{{ asset('images/bike-service-logo.png') }}" alt="hello">
     </div>
     <div class="container">
         <div class="row">
