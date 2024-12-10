@@ -74,7 +74,7 @@
             <a class="navbar-brand" href="#">Bike Service App</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon dark" >
-                    <img src="{{ Storage::url('public/profile/toggel-icon.png') }}" alt=" hello" width="100%" height="100%">
+                    <img src="{{ asset('images/toggel-icon.png') }}" alt=" hello" width="100%" height="100%">
                 </span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
